@@ -1,0 +1,9 @@
+I want to add the following enhancements to the current project
+
+A GUI that will allow users to select a folder
+
+Once the target folder is selected, the software will automatically list all unique/distinct file types in a grid
+
+Users can opt which types of files should be purged against defined age
+
+Should allow the users to edit their choices at later stages like removing file types or changing the age of files
